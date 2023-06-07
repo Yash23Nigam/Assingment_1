@@ -1,0 +1,8 @@
+In the first movie, I start right at the start of learning Python.
+Lists (or arrays), variables, strings, and control lines were some of the things we talked about.
+Having already learned languages like C and Java, which aren't as easy for beginners, helped me learn this one quickly.
+I liked how flexible and easy it was to handle data with Python.
+Libraries made writing code easier by getting rid of the need to start from scratch.
+This was shown in the first project, which used tools to make it easy to change the data in an Excel file.
+The machine learning project also had tools that were already made to save time.
+Since I know more about HTML, CSS, and JS, the Django project was a bigger task for me. But I'm sure that I'll get used to working in the system quickly.
