@@ -1,0 +1,3 @@
+The fourth video didn't tell us much that we didn't already know from the first video, since they were both about the same things and taught by the same people.
+But it gave a more detailed description of how Python methods work.
+It added tuples and the range function to well-known ideas like variables, strings, control lines, and lists (or arrays). Even though there was some repeating, the thorough look at Python methods helped me understand these ideas better.
