@@ -1,0 +1,11 @@
+This is a summary of the code I learned in a one-hour Git and GitHub lesson.
+Git is a place where files, records, and settings are kept. Git is made up of four steps:
+
+Working Directory, Staging Area, Commit, and Remote Repository.
+
+I learned how to use commands like "git init," "git add filename>," and "git commit" to build repositories on Github and push local files to Github. 
+Also, how to use commands like "git clone HTTPS_address" to copy the repositories to your local machine.
+
+The 'git status' command can also be used to check the state of the repositories. It will tell you if a commit needs to be made or if the working directory is clear. The branch names that come with Git and Github can also be changed. 
+Either Github or Git can use the command "git branch -m old-branch-name> new-branch-name>" to make the change.
+The default for Git is "master," and the default for Github is "main." By making the changes, you can change these. By typing "git push origin master," you can also post changes to Github.
