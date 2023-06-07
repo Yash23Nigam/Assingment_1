@@ -1,0 +1,16 @@
+The international community is using artificial intelligence (AI) to use data from electronic medical records (EMRs) to make better use of medical big data. 
+By putting patients into groups based on their characteristics, AI can predict when they will get sick or give them personalised care.
+AI study is made better by standardising and improving EMR data. To protect the privacy of the patient and improve the standard of the EMR,
+
+AI is needed to collect EMR data.
+
+Researchers from Korea want to organise and standardise medical data so that it can be used in clinical settings. 
+To get the most clinical use out of EMR data, the quality and collection of the data must be controlled. To make AI algorithms, you need to know a lot about medicine and research, have technology for preprocessing data, and have structured, high-quality EMR data. There are three types of EMR data: organised, semi-structured, and unstructured.
+
+Structured data can't be changed, but semi-structured data can be. Unstructured data have odd shapes and are hard to classify. Image data can be collected quickly because there is no need to control the quality of the data.
+AI makes it easier for hospitals to run, handle patients, and treat them. Korea wants to spend money on R&D for big data systems and biohealth.
+
+In one study, cardiac arrest was predicted by an ECG-validated deep-learning-based artificial intelligence programme (DLA). 
+Research on medical data should be moral and legal. Standardising data, improving domain understanding, and protecting privacy are all very important.
+It is possible to link and combine big data from other institutions, but hospitals should talk about it first. 
+Read the "Guideline for Pseudonymization" or "Guideline for Utilisation of Healthcare Data" first.
