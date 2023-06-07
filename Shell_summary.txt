@@ -1,0 +1,14 @@
+In this Linux Shell Scripting course, I learned about the shell, the different commands used to run shell files, what words we need to run a file on the terminal, how to remove a script, and a lot more.
+A shell script is a text file with several tasks in it. I learned that shell scripts can be used to handle any task that can be done on the command line. We need to give execution rights to the file before we can run it as a script. The command chmod +x file_name.sh is used to give permission to run the file.
+And./file_name.sh is what we type to run the file.
+To get rid of the script, we type rm file_name.sh.
+If we don't use the chmod command, the prompt = permission refused message appears. We use the ls -l file_name.sh command to find out what rights the file has. We need both "read" and "execute" permissions on the script file in order to run it.
+#!/bin/bash --> SHEBANG = finds out which programme runs the command in the file.
+I also learned that echo is a built-in shell tool that is part of the bash programme. We use type command to see if a command comes with the shell or not.
+Then I learned that there are different ways to declare variables and that it's easy to make mistakes when using them.
+The majority of the time, we use capital letters as factors. It is a rule, not a rule of grammar. 
+We use # to mark comments and then write lines that explain what they mean.
+The command sudo./got-root.sh is used to give root user rights.
+In Linux, the root user ID is 0. We use the command -> quit to get out of the root account.
+In this study, I also learned about conditionals (if else).
+This course was great in terms of what it taught and how it was put together.
